@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ISpacer
 - 👀 I’m interested in Game dev and Web design
-- 🌱 I’m currently learning HTML, CSS, JavaScript. Atm
+- 🌱 I’m currently learning HTML, CSS, JavaScript. 
 - 📫 How to reach me ispacecode1@gmail.com
 
 <!---
